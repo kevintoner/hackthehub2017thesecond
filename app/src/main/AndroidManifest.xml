@@ -63,9 +63,18 @@
 
         <activity
             android:name=".stgeorgemkt"
-            android:parentActivityName=".MainActivity"
             android:label="@string/title_activity_stgeorgemkt"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ulsrmusm"
+            android:label="@string/title_activity_ulsrmusm"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.gimbal.hello_gimbal_android.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
