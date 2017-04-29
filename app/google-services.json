@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "513997370556",
+    "firebase_url": "https://beaconapp-21491.firebaseio.com",
+    "project_id": "beaconapp-21491",
+    "storage_bucket": "beaconapp-21491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513997370556:android:aa795dc9ae7b4924",
+        "android_client_info": {
+          "package_name": "com.gimbal.hello_gimbal_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513997370556-gv94aeb9tpcrh3e9u3rqbikvp3n8bm40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gimbal.hello_gimbal_android",
+            "certificate_hash": "6ab4a0475ebd827c5cb1135590db36b5cb94fcb7"
+          }
+        },
+        {
+          "client_id": "513997370556-si214du4tlhrq9n0ql6hb77ufa8j1hj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07cjo2lwV-6wm6nNMhiJBU5_q18cz-Z8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513997370556-si214du4tlhrq9n0ql6hb77ufa8j1hj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
