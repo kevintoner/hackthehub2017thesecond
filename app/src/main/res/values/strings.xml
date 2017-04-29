@@ -3,4 +3,15 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_stgeorgemkt">stgeorgemkt</string>
+    <string name="title_activity_ulsrmusm">ulsrmusm</string>
+    <string name="stgeorgemkt_hist">History:
+There has been an open market on the St George\'s site dating back to the 17th century. The present St George\'s Market was built in three stages between 1890 and 1896.</string>
+    <string name="stgeorgemkt_music">Upcoming Music:
+Friday 28 April	Davy Watson	11am  – 3pm\n
+Saturday 29 April	Rory Lavelle	10.30am – 3pm\n
+Sunday 30 April	The Electric Bananas	11.30am – 4pm</string>
+    <string name="ulsmsm"><a href="http://nmni.com/um/Support-Us">Support The museum\n</a>
+    <a href="http://nmni.com/um/What-s-on">What\'s on\n\n</a>
+    History: The Ulster Museum was founded as the Belfast Natural History Society in 1821 and began exhibiting in 1833. It has included an art gallery since 1890. Originally called the Belfast Municipal Museum and Art Gallery,[3] in 1929, it moved to its present location in Stranmillis. The new building was designed by James Cumming Wynne.</string>
 </resources>
